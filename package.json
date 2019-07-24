@@ -1,0 +1,19 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "first exposure to json",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndriulisBeatz/Blog-Backend.git"
+  },
+  "author": "Edgar Endriulis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndriulisBeatz/Blog-Backend/issues"
+  },
+  "homepage": "https://github.com/EndriulisBeatz/Blog-Backend#readme"
+}
